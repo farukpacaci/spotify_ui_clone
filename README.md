@@ -1,6 +1,6 @@
 # Spotify UI Clone
 
-This is my first professional Flutter project. I studied to code Spotify UI clone with Flutter. First version just contains home page.
+This is my first professional Flutter project. I studied to code Spotify UI clone with Flutter. First version just contains home page. I am going to continue updating this project.
 
 ## Getting Started
 
