@@ -11,7 +11,7 @@ class Daily extends StatelessWidget {
       padding: EdgeInsets.only(
         left: screenWidth * 0.027,
         right: screenWidth * 0.027,
-        bottom: screenHeight * 0.07,
+        bottom: screenHeight * 0.01,
       ),
       child: Column(
         children: [

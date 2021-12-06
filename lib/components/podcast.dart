@@ -63,7 +63,7 @@ class Podcast extends StatelessWidget {
       padding: EdgeInsets.only(right: screenWidth * 0.02),
       child: Container(
         width: screenHeight * 0.18,
-        height: screenHeight * 0.3,
+        height: screenHeight * 0.34,
         decoration: BoxDecoration(
           borderRadius: BorderRadius.circular(10),
         ),
@@ -102,14 +102,14 @@ class Podcast extends StatelessWidget {
                 ),
                 Container(
                   width: screenHeight * 0.18,
-                  height: screenHeight * 0.06,
+                  height: screenHeight * 0.07,
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.only(
                         bottomLeft: Radius.circular(10),
                         bottomRight: Radius.circular(10)),
                   ),
                   child: Text(
-                    "Siz geceleri uyuyabilin diye ben uyumayıp dertlerinizi...",
+                    "Siz geceleri uyuyabilin diye ben uyumayıp...",
                     style: TextStyle(
                       color: Colors.white60,
                       fontWeight: FontWeight.w500,
@@ -129,7 +129,7 @@ class Podcast extends StatelessWidget {
       padding: EdgeInsets.only(right: screenWidth * 0.02),
       child: Container(
         width: screenHeight * 0.18,
-        height: screenHeight * 0.3,
+        height: screenHeight * 0.34,
         decoration: BoxDecoration(
           borderRadius: BorderRadius.circular(10),
         ),
@@ -168,14 +168,14 @@ class Podcast extends StatelessWidget {
                 ),
                 Container(
                   width: screenHeight * 0.18,
-                  height: screenHeight * 0.06,
+                  height: screenHeight * 0.07,
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.only(
                         bottomLeft: Radius.circular(10),
                         bottomRight: Radius.circular(10)),
                   ),
                   child: Text(
-                    "Kendini keşfet, motive ol ve yüzleş. Merhaba, ben Klinik Psikolog...",
+                    "Kendini keşfet, motive ol ve yüzleş. Merhaba...",
                     style: TextStyle(
                       color: Colors.white60,
                       fontWeight: FontWeight.w500,
@@ -195,7 +195,7 @@ class Podcast extends StatelessWidget {
       padding: EdgeInsets.only(right: screenWidth * 0.02),
       child: Container(
         width: screenHeight * 0.18,
-        height: screenHeight * 0.3,
+        height: screenHeight * 0.34,
         decoration: BoxDecoration(
           borderRadius: BorderRadius.circular(10),
         ),
@@ -234,7 +234,7 @@ class Podcast extends StatelessWidget {
                 ),
                 Container(
                   width: screenHeight * 0.18,
-                  height: screenHeight * 0.06,
+                  height: screenHeight * 0.07,
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.only(
                         bottomLeft: Radius.circular(10),
@@ -261,7 +261,7 @@ class Podcast extends StatelessWidget {
       padding: EdgeInsets.only(right: screenWidth * 0.02),
       child: Container(
         width: screenHeight * 0.18,
-        height: screenHeight * 0.3,
+        height: screenHeight * 0.34,
         decoration: BoxDecoration(
           borderRadius: BorderRadius.circular(10),
         ),
@@ -300,14 +300,14 @@ class Podcast extends StatelessWidget {
                 ),
                 Container(
                   width: screenHeight * 0.18,
-                  height: screenHeight * 0.06,
+                  height: screenHeight * 0.07,
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.only(
                         bottomLeft: Radius.circular(10),
                         bottomRight: Radius.circular(10)),
                   ),
                   child: Text(
-                    "Nutuk, Atatürk’ün Samsun’a çıktığı tarih olan 19 Mayıs...",
+                    "Nutuk, Atatürk’ün Samsun’a çıktığı tarih olan 19...",
                     style: TextStyle(
                       color: Colors.white60,
                       fontWeight: FontWeight.w500,
@@ -327,7 +327,7 @@ class Podcast extends StatelessWidget {
       padding: EdgeInsets.only(right: screenWidth * 0.02),
       child: Container(
         width: screenHeight * 0.18,
-        height: screenHeight * 0.3,
+        height: screenHeight * 0.34,
         decoration: BoxDecoration(
           color: Colors.transparent,
           borderRadius: BorderRadius.circular(10),
@@ -358,7 +358,7 @@ class Podcast extends StatelessWidget {
                 ),
                 Container(
                   width: screenHeight * 0.18,
-                  height: screenHeight * 0.04,
+                  height: screenHeight * 0.05,
                   child: Text(
                     "Ortamlarda Satılacak Bilgi",
                     style: TextStyle(
@@ -367,14 +367,14 @@ class Podcast extends StatelessWidget {
                 ),
                 Container(
                   width: screenHeight * 0.18,
-                  height: screenHeight * 0.06,
+                  height: screenHeight * 0.07,
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.only(
                         bottomLeft: Radius.circular(10),
                         bottomRight: Radius.circular(10)),
                   ),
                   child: Text(
-                    "Kültür, Sanat, Edebiyat, Felsefe, Psikoloji, Kişisel Gelişim, Belge...",
+                    "Kültür, Sanat, Edebiyat, Felsefe, Psikoloji...",
                     style: TextStyle(
                       color: Colors.white60,
                       fontWeight: FontWeight.w500,

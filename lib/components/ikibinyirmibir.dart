@@ -60,7 +60,7 @@ class Ikibinbir extends StatelessWidget {
                                     left: screenWidth * 0.03),
                                 child: Container(
                                   width: screenWidth * 0.4,
-                                  height: screenHeight * 0.017,
+                                  height: screenHeight * 0.019,
                                   color: Colors.transparent,
                                   // ignore: prefer_const_constructors
                                   child: Text(
@@ -168,7 +168,7 @@ class Ikibinbir extends StatelessWidget {
                         ),
                         Container(
                           width: screenHeight * 0.2,
-                          height: screenHeight * 0.05,
+                          height: screenHeight * 0.052,
                           child: Padding(
                             padding: EdgeInsets.only(top: screenHeight * 0.005),
                             child: Text(
