@@ -3,9 +3,9 @@
 This is my first professional Flutter project. I studied to code Spotify UI clone with Flutter. 
 First version just contains home page. I am going to continue updating this project.
 
-![screenshot_1](https://user-images.githubusercontent.com/94011744/146551780-87c29b3a-27b6-407f-a7f6-0c3ee8f18caf.png)
-![screenshot_2](https://user-images.githubusercontent.com/94011744/146551790-5fad09fc-9d82-444f-9105-df9f402ac88e.png)
-![screenshot_3](https://user-images.githubusercontent.com/94011744/146551802-9aeb1077-266e-41b8-9241-be46eeb22ada.png)
+![screenshot_1](https://user-images.githubusercontent.com/94011744/146551947-2f88d18d-10bd-4933-aed3-7fba263b040d.png)
+![screenshot_2](https://user-images.githubusercontent.com/94011744/146551961-394cd471-e285-4acd-874d-c60fa1e3c4e2.png)
+![screenshot_3](https://user-images.githubusercontent.com/94011744/146551968-be90077d-d400-46ee-a0e6-528af7aa9422.png)
 
 
 ## Getting Started
